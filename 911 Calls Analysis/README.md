@@ -1,4 +1,6 @@
-Analysis of 911 call data from Kaggle. The data is from Dec 2015 to August 2016. The data contains the following fields:
+## 911 Calls Analysis
+
+Analysis of 911 call data from Kaggle. The data is from **Dec 2015 to August 2016**. The data contains the following fields:
 
 lat : String variable, Latitude<br />
 lng: String variable, Longitude<br />
