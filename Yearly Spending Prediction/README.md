@@ -15,3 +15,6 @@ The performance metrics for the model are as follows:
 MSE:  79.81305165097456<br />
 RMSE:  8.93381506697864**
 
+**Findings:**
+Length of Membership has the strongest correlation with increased Yearly Amount Spent
+Time spent on the app is a stronger indicator of increased spending than time spent on the website
