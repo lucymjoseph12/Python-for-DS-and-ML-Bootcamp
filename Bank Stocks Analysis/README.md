@@ -1,4 +1,4 @@
-This project is a simple exploratory data analysis of stock prices.
+This project is a simple exploratory data analysis of stock prices. To view the plotly graphs in the notebook: [click here](https://nbviewer.org/github/lucymjoseph12/Python-for-DS-and-ML-Bootcamp/blob/main/Bank%20Stocks%20Analysis/Bank%20Stocks%20Analysis.ipynb)
 
 We use pandas datareader to get stock information for the following banks from Yahoo Finance for the time period Jan 1st 2006 to Jan 1st 2016:
 
